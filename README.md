@@ -3,7 +3,9 @@
 
 You can contribute to the community too. Just send a PR and if deemed satisfactory I'll add you as a contributor here. 
 
-[Fr3qu3n533](https://github.com/Pratyaksh06)
+## Contributors:
+
+* [Fr3qu3n533](https://github.com/Pratyaksh06)
 
 
 
